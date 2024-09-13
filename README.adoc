@@ -1,0 +1,4 @@
+See link:https://github.com/Xyndra/Gateway[Gateway Protocol] for more information.
+
+WARNING: This is not a good implementation and only here for inspiration. Please find another implementation
+or create your own.
